@@ -34446,11 +34446,11 @@ if(a==null)return
 if(a<0)a=0
 else{s=p.ch
 s===$&&A.a()
-if(a>s)a=s}s=p.ay
+if(a>s)a=s}s=p.ch
 s===$&&A.a()
-r=p.ch
+r=p.ay
 r===$&&A.a()
-q=a*s/r
+q=Math.abs(s-a)*r/s
 s=p.CW
 if(q!==(s==null?null:s.b)){s=p.ax
 s===$&&A.a()
