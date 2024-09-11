@@ -6624,7 +6624,7 @@ p.lr(q)
 p.aj()
 n=new A.CJ(n,a,b,d,e,r,p,B.aX,0,o,new A.c5([]),new A.c5([]))
 n.rn(o,o,o,o,0,s,0,o,o)
-if(f.length!==0){n.EJ(f,!0,20,B.x5)
+if(f.length!==0){n.EJ(f,!0,30,B.x5)
 n.EJ(f,!1,10,B.xf)}return n},
 abd(a,b,c){var s,r,q,p=null,o=new A.bE(new Float64Array(2))
 o.fi(a,b)
@@ -31245,7 +31245,7 @@ for(s=k.R8,p=k.p4,o=0;o<a.length;++o,r=l,i=m){n=a[o]
 m=n.a*10
 if(b){p===$&&A.b()
 l=k.pZ(n.b,p)}else{s===$&&A.b()
-l=k.pZ(n.c,s)}if(Math.abs((l-r)/(m-i))>=7&&q.length!==0&&o+1<a.length){q.push(new A.z(m,r))
+l=k.pZ(n.c,s)}if(Math.abs((l-r)/(m-i))>=10&&q.length!==0&&o+1<a.length){q.push(new A.z(m,r))
 k.ds(A.acR(0,0,q,c,d))
 q=A.a([],j)}q.push(new A.z(m,l))}k.ds(A.acR(0,0,q,c,d))},
 pZ(a,b){var s
